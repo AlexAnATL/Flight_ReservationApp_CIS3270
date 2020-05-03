@@ -1,3 +1,4 @@
-# Flight_ReservationApp_CIS3270
+# Quickfly Flight Management Application
 Flight Reservation Applicaiton
 Contributors: Alex An, Mohammad, Justin Johnson
+
